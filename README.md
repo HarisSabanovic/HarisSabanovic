@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hejsan 👋
+*Jag heter Haris Sabanovic och detta är min första bio på github.*
 
-<!--
-**HarisSabanovic/HarisSabanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Om 👨‍🎓
+Jag är en blivande webbutvcklare och studerar just på på Mittuniversitet för att bli just de. 
 
-Here are some ideas to get you started:
+📚**Språk som jag arbetar med:**
+  * Javascript
+  * HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**//Av Haris Sabanovic**
+
+#### 📫 Kontakta mig:
+ * Student epost: hasa2303@student.miun.se
+ * Discord: harryboy2002
+
+
